@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1352" measuredH="944" mockupW="1291" mockupH="897">
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1352" measuredH="908" mockupW="1291" mockupH="861">
   <controls>
     <control controlID="28" controlTypeID="com.balsamiq.mockups::Title" x="73" y="47" w="-1" h="-1" measuredW="729" measuredH="27" zOrder="1" locked="true" isInGroup="-1">
       <controlProperties>
@@ -141,7 +141,7 @@
         <text>Registrarse</text>
       </controlProperties>
     </control>
-    <control controlID="72" controlTypeID="com.balsamiq.mockups::Tooltip" x="669" y="188" w="-1" h="-1" measuredW="136" measuredH="76" zOrder="31" locked="true" isInGroup="-1">
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Tooltip" x="669" y="188" w="-1" h="-1" measuredW="285" measuredH="33" zOrder="31" locked="true" isInGroup="-1">
       <controlProperties>
         <text>Registro%20de%20usuarios%20por%20SocialNetworks</text>
         <tooltipDirection>SE</tooltipDirection>
@@ -189,14 +189,15 @@
         <text>3.%20Navbar</text>
       </controlProperties>
     </control>
-    <control controlID="88" controlTypeID="com.balsamiq.mockups::Image" x="717" y="687" w="30" h="25" measuredW="77" measuredH="79" zOrder="40" locked="false" isInGroup="-1"/>
-    <control controlID="89" controlTypeID="com.balsamiq.mockups::Label" x="805" y="651" w="-1" h="-1" measuredW="85" measuredH="21" zOrder="41" locked="false" isInGroup="-1">
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Image" x="732" y="686" w="24" h="25" measuredW="77" measuredH="79" zOrder="40" locked="false" isInGroup="-1"/>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Label" x="835" y="642" w="-1" h="-1" measuredW="85" measuredH="21" zOrder="41" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Avatar%20usuario</text>
       </controlProperties>
     </control>
-    <control controlID="90" controlTypeID="com.balsamiq.mockups::Arrow" x="751" y="666" w="53" h="33" measuredW="150" measuredH="100" zOrder="42" locked="false" isInGroup="-1">
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Arrow" x="748" y="649" w="79" h="50" measuredW="150" measuredH="100" zOrder="42" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>0</color>
         <direction>bottom</direction>
         <leftArrow>true</leftArrow>
         <rightArrow>false</rightArrow>
@@ -230,51 +231,56 @@
         <text>Agenda%2C%20Mis%20cursos</text>
       </controlProperties>
     </control>
-    <control controlID="101" controlTypeID="com.balsamiq.mockups::Label" x="639" y="714" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Label" x="518" y="720" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
       <controlProperties>
+        <bold>true</bold>
         <text>Notificacion</text>
       </controlProperties>
     </control>
-    <control controlID="102" controlTypeID="com.balsamiq.mockups::Label" x="432" y="714" w="-1" h="-1" measuredW="58" measuredH="21" zOrder="49" locked="false" isInGroup="-1">
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Label" x="424" y="718" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="49" locked="false" isInGroup="-1">
       <controlProperties>
+        <bold>true</bold>
         <text>Mensajes</text>
       </controlProperties>
     </control>
     <control controlID="103" controlTypeID="com.balsamiq.mockups::Arrow" x="708" y="712" w="19" h="24" measuredW="150" measuredH="100" zOrder="50" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>0</color>
         <direction>top</direction>
         <rightArrow>false</rightArrow>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="104" controlTypeID="com.balsamiq.mockups::Arrow" x="502" y="690" w="137" h="37" measuredW="150" measuredH="100" zOrder="63" locked="false" isInGroup="-1">
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Arrow" x="485" y="690" w="154" h="46" measuredW="150" measuredH="100" zOrder="63" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>0</color>
         <direction>bottom</direction>
         <leftArrow>false</leftArrow>
         <rightArrow>true</rightArrow>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="110" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="811" y="678" w="140" h="-1" measuredW="215" measuredH="186" zOrder="51" locked="false" isInGroup="-1">
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="835" y="663" w="140" h="-1" measuredW="215" measuredH="186" zOrder="51" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <text>Luis%20M.%20Feijoo%5Cr*Mi%20perfil*%0ACertificados%0AMis%20mensajes%0ACursos%0AContacta%20a%20soporte%20%0ASalir</text>
       </controlProperties>
     </control>
-    <control controlID="114" controlTypeID="com.balsamiq.mockups::Canvas" x="518" y="736" w="263" h="120" measuredW="100" measuredH="70" zOrder="52" locked="false" isInGroup="-1"/>
-    <control controlID="115" controlTypeID="com.balsamiq.mockups::Label" x="529" y="738" w="243" h="-1" measuredW="236" measuredH="21" zOrder="53" locked="false" isInGroup="-1">
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Canvas" x="518" y="736" w="263" h="101" measuredW="100" measuredH="70" zOrder="52" locked="false" isInGroup="-1"/>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Label" x="529" y="738" w="254" h="-1" measuredW="246" measuredH="21" zOrder="53" locked="false" isInGroup="-1">
       <controlProperties>
+        <bold>true</bold>
         <text>%5B0%5D%20Mensajes%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5B+%5D%20Escribir%20mensaje</text>
       </controlProperties>
     </control>
-    <control controlID="116" controlTypeID="com.balsamiq.mockups::Label" x="585" y="832" w="-1" h="-1" measuredW="146" measuredH="21" zOrder="54" locked="false" isInGroup="-1">
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Label" x="585" y="816" w="-1" h="-1" measuredW="146" measuredH="21" zOrder="54" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
         <text>Ver%20todos%20los%20mensajes</text>
       </controlProperties>
     </control>
-    <control controlID="117" controlTypeID="com.balsamiq.mockups::HRule" x="529" y="826" w="239" h="-1" measuredW="100" measuredH="10" zOrder="55" locked="false" isInGroup="-1"/>
-    <control controlID="118" controlTypeID="com.balsamiq.mockups::HRule" x="518" y="756" w="252" h="-1" measuredW="100" measuredH="10" zOrder="56" locked="false" isInGroup="-1"/>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::HRule" x="529" y="810" w="239" h="-1" measuredW="100" measuredH="10" zOrder="55" locked="false" isInGroup="-1"/>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::HRule" x="518" y="756" w="265" h="-1" measuredW="100" measuredH="10" zOrder="56" locked="false" isInGroup="-1"/>
     <control controlID="120" controlTypeID="com.balsamiq.mockups::Label" x="242" y="740" w="243" h="-1" measuredW="95" measuredH="21" zOrder="58" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%5B0%5D%20Notificaciones</text>
@@ -288,8 +294,9 @@
     </control>
     <control controlID="122" controlTypeID="com.balsamiq.mockups::HRule" x="244" y="783" w="239" h="-1" measuredW="100" measuredH="10" zOrder="60" locked="false" isInGroup="-1"/>
     <control controlID="123" controlTypeID="com.balsamiq.mockups::HRule" x="235" y="760" w="252" h="-1" measuredW="100" measuredH="10" zOrder="61" locked="false" isInGroup="-1"/>
-    <control controlID="124" controlTypeID="com.balsamiq.mockups::HCurly" x="423" y="864" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="62" locked="false" isInGroup="-1">
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::HCurly" x="315" y="849" w="358" h="59" measuredW="200" measuredH="80" zOrder="62" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>0</color>
         <text>Area%20de%20notificaciones%20y%20mensajes%20de%20usuarios.%0AEn%20tiempo%20real%20%28Similar%20al%20funcionamiento%20de%20facebook%29</text>
       </controlProperties>
     </control>
